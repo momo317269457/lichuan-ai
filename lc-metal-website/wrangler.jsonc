@@ -7,7 +7,7 @@
 	"name": "lichuan-ai",
 	"main": ".open-next/worker.js",
 	"compatibility_date": "2025-10-08",
-	"pages_build_output_dir": "./dist",
+	"pages_build_output_dir": "./../dist",
 	"compatibility_flags": [
 		"nodejs_compat",
 		"global_fetch_strictly_public"

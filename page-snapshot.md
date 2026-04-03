@@ -1,0 +1,58 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e5]: 力川金属
+      - navigation [ref=e6]:
+        - link "首页" [ref=e7] [cursor=pointer]:
+          - /url: /
+        - link "产品" [ref=e8] [cursor=pointer]:
+          - /url: "#products"
+        - link "服务" [ref=e9] [cursor=pointer]:
+          - /url: "#services"
+        - link "资质" [ref=e10] [cursor=pointer]:
+          - /url: "#certs"
+        - link "联系我们" [ref=e11] [cursor=pointer]:
+          - /url: "#contact"
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - heading "力川金属材料科技有限公司" [level=1] [ref=e15]
+          - paragraph [ref=e16]: 中国最大的私营库存商、分销商和出口商之一，专注不锈钢卷材及板材等产品，提供全线供应与定制加工解决方案。
+        - generic [ref=e17]:
+          - heading "产品" [level=2] [ref=e18]
+          - generic [ref=e19]:
+            - paragraph [ref=e21]: 不锈钢卷材与板材
+            - paragraph [ref=e23]: 不锈钢管（无缝/焊接）
+            - paragraph [ref=e25]: 不锈钢型材（角钢、槽钢、工字钢、圆钢、方钢、扁钢等）
+            - paragraph [ref=e27]: 不锈钢加工制品（定制深加工产品）
+        - generic [ref=e28]:
+          - heading "服务能力" [level=2] [ref=e29]
+          - generic [ref=e30]:
+            - paragraph [ref=e32]: 供应与分销
+            - paragraph [ref=e34]: 定制深加工（镀/表面处理、切割、成型等）
+            - paragraph [ref=e36]: 质量控制与认证管理
+        - generic [ref=e37]:
+          - heading "认证与资质" [level=2] [ref=e38]
+          - paragraph [ref=e41]: ISO 9001
+        - generic [ref=e42]:
+          - heading "画廊（ brochure 内容截图 ）" [level=2] [ref=e43]
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - img "大型卷材与板材产品线" [ref=e46]
+              - paragraph [ref=e47]: 大型卷材与板材产品线
+            - generic [ref=e48]:
+              - img "不锈钢管材与型材系列" [ref=e49]
+              - paragraph [ref=e50]: 不锈钢管材与型材系列
+            - generic [ref=e51]:
+              - img "定制加工与深加工能力" [ref=e52]
+              - paragraph [ref=e53]: 定制加工与深加工能力
+        - generic [ref=e54]:
+          - heading "联系我们" [level=2] [ref=e55]
+          - generic [ref=e56]:
+            - paragraph [ref=e57]: "电话: +86-1305-722-6959"
+            - paragraph [ref=e58]: "Email: chenfeihu36@gmail.com"
+            - paragraph [ref=e59]: "地址: No. 16 Hehe Road, Wuxi City, Jiangsu Province, PR China"
+    - contentinfo [ref=e60]: © 2026 力川金属有限公司
+  - button "Open Next.js Dev Tools" [ref=e66] [cursor=pointer]:
+    - img [ref=e67]
+  - alert [ref=e70]

@@ -1,0 +1,20 @@
+{
+  "name": "力川金属有限公司",
+  "description": "简要描述公司定位与核心竞争力",
+  "products": [
+    "产品1",
+    "产品2"
+  ],
+  "services": [
+    "服务1",
+    "服务2"
+  ],
+  "certifications": [
+    "ISO 9001:2015"
+  ],
+  "contact": {
+    "phone": "+86-",
+    "email": "",
+    "address": ""
+  }
+}

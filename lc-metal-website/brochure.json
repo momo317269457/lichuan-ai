@@ -1,0 +1,147 @@
+{
+  "name": "力川金属材料科技有限公司",
+  "description": "中国最大的私营库存商、分销商和出口商之一，专注不锈钢卷材及板材等产品，提供全线供应与定制加工解决方案。",
+  "aliases": [
+    "LICHUAN GROUP LIMITED"
+  ],
+  "products": [
+    {
+      "name": "不锈钢卷材与板材",
+      "specs": [
+        {
+          "name": "长度",
+          "value": "按需",
+          "unit": ""
+        },
+        {
+          "name": "宽度范围",
+          "value": "0-2000",
+          "unit": "mm"
+        },
+        {
+          "name": "厚度",
+          "value": "Cold Rolled:0.01-6 ;Hot Rolled:2.5-16",
+          "unit": "mm"
+        },
+        {
+          "name": "标准",
+          "value": "AISI,ASTM,DIN,JIS,GB,JIS,SUS,EN",
+          "unit": ""
+        },
+        {
+          "name": "表面",
+          "value": "Cold Rolled:2B,2BB,2BA,BA,NO.4,HL,6K,8K,Colors; Hot Rolled:NO.1,Black,Chequered",
+          "unit": ""
+        },
+        {
+          "name": "厚度公差",
+          "value": "按需",
+          "unit": ""
+        },
+        {
+          "name": "钢级",
+          "value": "201,202,301,302,303,304,304L,304H,310S,316,316L,317L,321,310S,309S,410,410S,420,430,904L,2205,2507",
+          "unit": ""
+        },
+        {
+          "name": "原厂",
+          "value": "TISCO,LISCO,JISCO,POSCO, HONGWANG，TSING SHAN,DELONG,BAOSTEEL",
+          "unit": ""
+        },
+        {
+          "name": "产量",
+          "value": "20,000~30,000 Tons/Month (吨月)",
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "name": "不锈钢管材（无缝/焊接）",
+      "specs": [
+        {
+          "name": "外径",
+          "value": "6-60",
+          "unit": "mm"
+        },
+        {
+          "name": "壁厚",
+          "value": "1-5",
+          "unit": "mm"
+        },
+        {
+          "name": "材质",
+          "value": "304/316",
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "name": "不锈钢型材（角钢/槽钢/工字钢等）",
+      "specs": [
+        {
+          "name": "产品名称",
+          "value": "不锈钢角钢",
+          "unit": ""
+        },
+        {
+          "name": "尺寸",
+          "value": "Specification（规格）: 20*20-200*200mm；Length（长度）:6m-12m；尺寸可定制",
+          "unit": ""
+        },
+        {
+          "name": "表面",
+          "value": "Pick led ,Sand Blasting",
+          "unit": "mm"
+        },
+        {
+          "name": "等级",
+          "value": "201,202,301,H302,303,304,304L,304H,310S,316,316L,317L,321,310S,309S,410,410S,420,430,904L,2205,2507",
+          "unit": ""
+        },
+        {
+          "name": "标准",
+          "value": "AISI,ASTM,JIS,SUS,DIN,GB,UNS,EN,CE",
+          "unit": ""
+        },
+        {
+          "name": "认证",
+          "value": "ISO 9001",
+          "unit": ""
+        },
+        {
+          "name": "产量",
+          "value": "2000 Tons/Month",
+          "unit": ""
+        }
+      ]
+    },
+    {
+      "name": "不锈钢加工制品（定制深加工）",
+      "specs": [
+        {
+          "name": "加工类型",
+          "value": "镀、表面处理、切割、成型",
+          "unit": ""
+        },
+        {
+          "name": "交货周期",
+          "value": "7-21",
+          "unit": "天"
+        }
+      ]
+    }
+  ],
+  "services": [
+    "供应与分销",
+    "定制深加工（镀/表面处理、切割、成型等）",
+    "质量控制与认证管理"
+  ],
+  "certifications": [
+    "ISO 9001"
+  ],
+  "contact": {
+    "phone": "+86-1305-722-6959",
+    "email": "chenfeihu36@gmail.com",
+    "address": "No. 16 Hehe Road, Wuxi City, Jiangsu Province, PR China"
+  }
+}

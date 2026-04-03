@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" aria-label="力川金属 Logo" role="img">
+  <defs>
+    <!-- 金属感渐变背景 -->
+    <linearGradient id="logoMetalGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6e9ed"/>
+      <stop offset="40%" stop-color="#c6cbd2"/>
+      <stop offset="100%" stop-color="#8a8f97"/>
+    </linearGradient>
+    <!-- 内部高光渐变 -->
+    <linearGradient id="logoHighlight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.9)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.0)"/>
+    </linearGradient>
+  </defs>
+  <!-- 外部六边形轮廓，给以金属质感 -->
+  <polygon points="300,40 520,100 520,300 300,360 80,300 80,100"
+           fill="url(#logoMetalGrad)" stroke="#6b7280" stroke-width="2"/>
+  <!-- 六边形内的金属渐变辉光 -->
+  <polygon points="300,60 480,110 480,290 300,340 120,290 120,110"
+           fill="url(#logoMetalGrad)" opacity="0.25"/>
+  <!-- 川字意象：三竖条，象征“川”的竖列 -->
+  <g fill="#dfe7ee" stroke="#5b6a7a" stroke-width="2" opacity="0.95">
+    <rect x="240" y="140" width="26" height="140" rx="4"/>
+    <rect x="285" y="140" width="26" height="140" rx="4"/>
+    <rect x="330" y="140" width="26" height="140" rx="4"/>
+  </g>
+  <!-- 力川金属中文文字（自包含文本，尽量避免外部字体依赖） -->
+  <text x="300" y="320" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700"
+        fill="#ffffff" stroke="#000000" stroke-width="0.6" paint-order="stroke">
+    力川金属
+  </text>
+  <!-- 微弱高光以增强金属感（不干扰文本可读性） -->
+  <rect x="0" y="0" width="600" height="400" fill="url(#logoHighlight)" opacity="0.25" />
+</svg>

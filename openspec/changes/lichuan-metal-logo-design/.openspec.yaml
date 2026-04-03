@@ -1,0 +1,14 @@
+name: lichuan-metal-logo-design
+schema: spec-driven
+state: in_progress
+applyRequires:
+- tasks
+artifacts:
+- id: proposal
+  path: proposal.md
+- id: design
+  path: design.md
+- id: specs
+  path: specs/**/*.md
+- id: tasks
+  path: tasks.md

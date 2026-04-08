@@ -66,7 +66,7 @@ export default function ProductPage() {
         return productImages[key];
       }
     }
-    return ['/images/brochure/image1.svg'];
+    return ['/images/brochure/slider3.png'];
   };
 
   const handleImageClick = (images, index) => {

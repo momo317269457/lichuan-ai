@@ -8,8 +8,8 @@ export default function Home() {
 
   const [currentSlide, setCurrentSlide] = useState(0);
   const heroSlides = [
-    { src: 'https://picsum.photos/1920/1080?random=1', alt: 'Steel warehouse' },
-    { src: 'https://picsum.photos/1920/1080?random=2', alt: 'Metal processing' },
+    { src: 'images/brochure/slider3.png', alt: 'Steel warehouse' },
+    { src: 'images/brochure/slider-4.png', alt: 'Metal processing' },
     { src: 'https://picsum.photos/1920/1080?random=3', alt: 'Global trade' }
   ];
 

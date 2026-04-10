@@ -45,8 +45,8 @@ jobs:
             echo "runner=npx --no-install" >> $GITHUB_OUTPUT
             exit 0
           else
-            echo "manager=npm" >> $GITHUB_OUTPUT
-            echo "command=ci" >> $GITHUB_OUTPUT
+            echo "no found. generate one" >> $GITHUB_OUTPUT
+            cd ${{ github.workspace }}/lc-metal-website/ && npm install
             echo "runner=npx --no-install" >> $GITHUB_OUTPUT
             exit 0
           fi
